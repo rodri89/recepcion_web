@@ -1,0 +1,124 @@
+div.scrolled{
+/*background-attachment: scroll; 
+position:fixed;
+top:340px;  */
+}
+
+
+table.table10{
+  /*border-color: #d3e0e9;*/
+  /*background-color: #000;*/    
+  background-image: url('../../images/mesa/mesa2.png');
+}
+
+table.table8{
+  background-image: url('../../images/mesa/mesaParque8sillas2.png');
+}
+
+table.table12{
+  background-image: url('../../images/mesa/mesa model12sillas.png');
+}
+
+td.table2{
+  border:none;
+  margin: 0 auto;
+  /*background-color: #000;*/
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+
+
+h6.fondoSilla{
+  /* aca podria poner otro estilo de letra */
+  /*background-color: #000;*/
+  color: #FFFFFF;
+}
+
+p.silla{
+/*  margin: 0 auto;*/
+  font-size: 10px;
+}
+
+li.cssLibre{    
+    background-color: #52CAA8;
+	border-color: #52CAA8;
+}
+
+li.cssOcupado{
+	color: #FFFFFF;
+    background-color: #302D68;    
+	border-color: #302D68;  
+}
+
+.transparent{
+  background-color: transparent;
+}
+
+.fondoPiso{
+  /*background-color: #000;*/
+  background-image: url('../../images/mesa/piso2.jpg');  
+  background-size: 10%;
+}
+
+.removerBorde{
+  border: none;
+}
+
+.tituloh5{
+    color: #fff;
+    background-color: #302D68;
+    border-color: #52CAA8;
+	display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 18px;
+    line-height: 1.6;
+    /*border-radius: 4px;*/
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.numMesa{
+  position:relative;
+  top:50%;
+  left:50%;
+}
+
+
+
+div.fondoMarron{
+    padding: 10px 15px;
+    background-color: #302D68;
+    border-bottom: 1px solid transparent;
+   
+    color:#FFF;
+    font-size: 16px;
+}
+
+div.fondoAmarillo{
+  background-color: #FFF;
+}
+
+h5.texto,label{
+  color:#00000;
+  font-weight: bold; 
+}
+
+nav.fondoCabecera{    
+    background-color: #671919;    
+}
+
+li.colorLetra{
+  color:#00000;
+}

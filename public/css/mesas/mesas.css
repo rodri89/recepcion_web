@@ -1,0 +1,103 @@
+
+div.scrolled{
+/*background-attachment: scroll; 
+position:fixed;
+top:340px;  */
+}
+
+
+table.table10{
+  /*border-color: #d3e0e9;*/
+  /*background-color: #000;*/    
+  background-image: url('../../images/mesa/mesa2.png');
+}
+
+table.table8{
+  background-image: url('../../images/mesa/mesaParque8sillas2.png');
+}
+
+table.table12{
+  background-image: url('../../images/mesa/mesa model12sillas.png');
+}
+
+td.table2{
+  border:none;
+  margin: 0 auto;
+  /*background-color: #000;*/
+  padding-top: 13px;
+  padding-bottom: 13px;
+}
+
+
+h6.fondoSilla{
+  /* aca podria poner otro estilo de letra */
+  /*background-color: #000;*/
+  color: #FFF;
+}
+
+p.silla{
+/*  margin: 0 auto;*/
+  font-size: 10px;
+}
+
+li.cssLibre{    
+    background-color:#DCD74B;
+}
+
+li.cssOcupado{
+    background-color: #000;    
+}
+
+.transparent{
+  background-color: transparent;
+}
+
+.fondoPiso{
+  /*background-color: #000;*/
+  background-image: url('../../images/mesa/piso2.jpg');  
+  background-size: 10%;
+}
+
+.removerBorde{
+  border: none;
+}
+
+.tituloh5{
+  color:#FFF;
+  font-size:1.5em;
+}
+
+.numMesa{
+  position:relative;
+  top:50%;
+  left:50%;
+}
+
+
+
+div.fondoMarron{
+    padding: 10px 15px;
+    background-color: #671919;
+    border-bottom: 1px solid transparent;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;    
+    color:#FFF;
+    font-size: 16px;
+}
+
+div.fondoAmarillo{
+  background-color: #F0E68C;
+}
+
+h5.texto,label{
+  color:#8B0000;
+  font-weight: bold; 
+}
+
+nav.fondoCabecera{    
+    background-color: #671919;    
+}
+
+li.colorLetra{
+  color:#FFF;
+}
